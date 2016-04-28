@@ -8,3 +8,6 @@ story with it (the presentation is Lessig-stylish). If you need an introduction 
 AWS, I'd be happy to discuss the opportunities. Please contact me for the
 details.
 
+# Running
+
+Run ```grunt serve``` and watch the output for hints.
